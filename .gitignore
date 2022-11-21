@@ -1,0 +1,19 @@
+#ignore files smth dir project
+access.log
+
+#ignore dir in smth dir project
+
+node_modules/
+
+#ignore catalog in root work dir
+
+/coverage/
+
+ignore sqlite3
+
+/db/*.sqlite3
+
+
+ignore all .txt files in dir doc/
+
+dox/**/*.txt
